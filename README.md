@@ -51,3 +51,15 @@ Here are some projects I have worked on:
 ## 📚 Currently Learning
 
 React.js → Advanced Front-End → Backend Development → Full-Stack Development
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shifad878-prog&show_icons=true&theme=tokyonight)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shifad878-prog&theme=tokyonight)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shifad878-prog&layout=compact&theme=tokyonight)
