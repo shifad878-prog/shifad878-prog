@@ -75,3 +75,13 @@ React.js → Advanced Front-End → Backend Development → Full-Stack Developme
 ### 💡 Developer Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile! ✨
+
+*Feel free to connect with me and check out my projects!*
+
+![Profile Views](https://komarev.com/ghpvc/?username=shifad878-prog&label=Profile%20Views&color=6C63FF&style=plastic)
+
+</div>
