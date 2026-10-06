@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shifa Danish</h1>
 
-<!--
-**shifad878-prog/shifad878-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Software Engineer | Front-End Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  BS Computer Science Student • Karachi, Pakistan 🇵🇰
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Currently pursuing a **BS in Computer Science**
+- 💻 Passionate about **Front-End & Web Development**
+- 🌱 Currently learning **React.js**
+- 🚀 Exploring **Full-Stack Development**
+- 🛠️ Building projects to strengthen my development skills
+- 🎯 My goal is to become a **Professional Software Engineer**
+- 📚 Always learning and improving my technical skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Front-End
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- React.js
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Supabase
+
+---
+
+## 🚀 Projects
+
+Here are some projects I have worked on:
+
+- 🍳 **Recipe Sharing Web App** — A recipe platform with authentication and CRUD functionality.
+- 👤 **SnapProfile** — A student profile management web application.
+- 📝 **Blog Website** — A blog platform with user authentication and post management.
+- 💡 **Responsive Landing Pages** — Responsive websites built using modern web technologies.
+
+---
+
+## 📚 Currently Learning
+
+React.js → Advanced Front-End → Backend Development → Full-Stack Development
