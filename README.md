@@ -63,3 +63,15 @@ React.js → Advanced Front-End → Backend Development → Full-Stack Developme
 ### 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shifad878-prog&layout=compact&theme=tokyonight)
+
+### 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/shifa-danish-1b97aa2a2?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 Email: shifad878@gmail.com
+- 🌐 Portfolio: Personal portfolio showcasing my projects, skills, and development journey.
+      🚧 **Currently in progress**
+
+
+### 💡 Developer Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
